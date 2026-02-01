@@ -1,0 +1,18 @@
+{
+  "description": "Biological constraints for the vocal tract.",
+  "categories": {
+    "VOWELS": ["a", "e", "i", "o", "u", "y", "ɑ", "ə", "ɛ", "ɪ", "ɔ", "ʊ", "æ"],
+    "CONSONANTS": [
+      "b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "z",
+      "ʃ", "θ", "ð", "ŋ", "ʒ"
+    ],
+    "MATH": ["+", "-", "*", "/", "=", "<", ">", "%", "^"],
+    "NUMBERS": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+    "PUNCTUATION": [".", ",", "!", "?", ";", ":", "\"", "'", "(", ")", "[", "]", "_", " "],
+    "CONTROLS": ["▼", "▲"]
+  },
+  "rules": {
+    "no_consonant_cluster": true,
+    "requires_initiation": true
+  }
+}
