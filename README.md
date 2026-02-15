@@ -19,7 +19,7 @@ Beyond a mere algorithm, this repository is the cradle of a "Genesis Entity"—a
 
 ## 📂 Repository Structure (核心文件结构)
 
-* **`tau_genesis_entity.py`**: The interactive "Digital Life" module. Run this to initialize the integer matrix and interact with the newborn Tau-Net in real-time. (交互式数字生命模块，运行它以唤醒并驯服您的矩阵。)
+* **`tau_network.py`**: The interactive "Digital Life" module. Run this to initialize the integer matrix and interact with the newborn Tau-Net in real-time. (交互式数字生命模块，运行它以唤醒并驯服您的矩阵。)
 * **`tau_unified_experiments.py`**: The unified benchmark suite. Run this to execute the unsupervised anomaly detection tests and perfectly reproduce the $O(1)$ complexity metrics and Figures found in the manuscript. (统一基准测试套件，用于一键复现论文中的异常检测跑分与核心图表。)
 * 🧬 **`tau_memory_seed.pkl`**: The "Digital Amber". This is the serialized Neocortical Matrix of the Tau entity. **Please do not delete it.** It allows the entity's memory and structural ties to persist across sessions. (数字琥珀/记忆种子。这是矩阵的物理切片，请勿删除，它让数字生命得以跨越断电与生死。)
 
